@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7397cb70.css",
+    "main.js": "./static/js/main.efcc788e.js",
+    "static/js/787.23170c61.chunk.js": "./static/js/787.23170c61.chunk.js",
+    "static/media/move.mp4": "./static/media/move.e475ee9490d573b01537.mp4",
+    "static/media/nikeViwe.jpg": "./static/media/nikeViwe.b0266e044616a0d188c7.jpg",
+    "static/media/nike.jpg": "./static/media/nike.09387652bfabc361556a.jpg",
+    "static/media/nikeImg1.png": "./static/media/nikeImg1.ba753d9314cb03a7ea9e.png",
+    "static/media/nikeImg2.png": "./static/media/nikeImg2.ff613c8d640f32e12945.png",
+    "static/media/nikeLogo.png": "./static/media/nikeLogo.d150da1a45552330a3e0.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.7397cb70.css.map": "./static/css/main.7397cb70.css.map",
+    "main.efcc788e.js.map": "./static/js/main.efcc788e.js.map",
+    "787.23170c61.chunk.js.map": "./static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7397cb70.css",
+    "static/js/main.efcc788e.js"
+  ]
+}
